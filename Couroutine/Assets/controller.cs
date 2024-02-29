@@ -1073,14 +1073,16 @@ public class controller : MonoBehaviour
                 compte = 0;
                 StartCoroutine(ChangerTexte());
             }
+
+            if (AToiDeJouer == true && route == 9 || AToiDeJouer == true && route == 10)
+            {
+                route = 11;
+                compte = 0;
+                StartCoroutine(ChangerTexte());
+            }
         }
 
-        if (AToiDeJouer == true && route == 9 || AToiDeJouer == true && route == 10)
-        {
-            route = 11;
-            compte = 0;
-            StartCoroutine(ChangerTexte());
-        }
+        
         if (Input.GetButtonDown("Fire2"))
         {
             if (AToiDeJouer == true && route == 0)
