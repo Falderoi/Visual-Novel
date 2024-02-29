@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 3
+  m_EditorClassIdentifier: 
+  Phrase1: "Navet: non, non, non. Qu'est-ce que je fais ? Je ne peux pas juste aller
+    lui parler comme \xE7a, comme si de rien n'\xE9tait. Elle va probablement me
+    trouver bizarre ou pire, m'ignorer compl\xE8tement. Je ferais mieux de rester
+    \xE0 l'\xE9cart, de ne pas me faire remarquer. \xC7a vaut mieux pour tout le
+    monde, surtout pour moi. "
+  Phrase2: "Fin : Navet d\xE9cide finalement de ne pas aller parler \xE0 Courgette,
+    laissant passer une opportunit\xE9 qui pourrait changer sa vie. Les regrets l'assaillent
+    alors qu'il se replie dans sa timidit\xE9 habituelle. Game over.  Appuyer sur
+    espace pour recommencer"
+  Phrase3: 
+  Phrase4: 
+  Phrase5: 
+  Phrase6: 
+  Phrase7: 
+  Phrase8: 
+  Phrase9: 
+  Phrase10: 
+  Phrase11: 

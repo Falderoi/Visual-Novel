@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 5
+  m_EditorClassIdentifier: 
+  Phrase1: "Navet: ou peut-\xEAtre qu'on pourrait se retrouver quelque part apr\xE8s
+    les cours. Il y a ce cerisier dans le parc, c'est un endroit tranquille et agr\xE9able.
+    Qu'en penses-tu ? "
+  Phrase2: "Courgette: oh, \xE7a sonne bien ! Le cerisier apr\xE8s les cours, \xE7a
+    me convient parfaitement. "
+  Phrase3: "Navet: g\xE9nial ! Alors, rendez-vous l\xE0-bas apr\xE8s les cours ? "
+  Phrase4: 'Courgette: absolument ! Je suis impatiente de discuter un peu plus avec
+    toi. '
+  Phrase5: "Navet: les cours \xE9taient... Bien, je suppose. Mais, honn\xEAtement,
+    je n'ai pas vraiment r\xE9ussi \xE0 me concentrer. J'ai pass\xE9 la journ\xE9e
+    \xE0 penser \xE0 elle, \xE0 me demander ce qu'elle faisait, ce qu'elle pouvait
+    bien penser de moi. "
+  Phrase6: "Navet: mais maintenant, c'est enfin l'heure de la retrouver. Je suis
+    s\xFBr que \xE7a va bien se passer. Elle a accept\xE9 de me rencontrer, apr\xE8s
+    tout. Alors, autant y aller avec un esprit positif. "
+  Phrase7: 
+  Phrase8: 
+  Phrase9: 
+  Phrase10: 
+  Phrase11: 

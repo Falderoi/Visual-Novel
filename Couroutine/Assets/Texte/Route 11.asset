@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 11
+  m_EditorClassIdentifier: 
+  Phrase1: "[Alors que la discussion s'approfondit et que Navet se sent de plus en
+    plus \xE0 l'aise en compagnie de Courgette, il sent monter en lui le courage
+    n\xE9cessaire pour exprimer ses sentiments.]"
+  Phrase2: 'Navet: Courgette, il y a quelque chose que je voulais te dire depuis
+    un moment maintenant... '
+  Phrase3: 'Courgette: Quoi donc, Navet ?'
+  Phrase4: "Navet: je... Je voulais te dire \xE0 quel point tu comptes pour moi.
+    Depuis que nous avons commenc\xE9 \xE0 passer du temps ensemble, j'ai r\xE9alis\xE9
+    \xE0 quel point tu \xE9tais sp\xE9ciale pour moi. Tu es belle, intelligente,
+    dr\xF4le, et... et je pense que j\u2019ai le coup de foudre de toi. "
+  Phrase5: "[Courgette reste silencieuse un moment, ses yeux cherchant ceux de Navet
+    avec intensit\xE9, puis un sourire doux \xE9tire ses l\xE8vres.] "
+  Phrase6: "Courgette: Navet, je... Je ressens la m\xEAme chose. Je suis aussi tomb\xE9e
+    amoureuse de toi. "
+  Phrase7: "[Un sentiment de bonheur indescriptible envahit Navet alors qu'il r\xE9alise
+    que ses sentiments sont partag\xE9s. Il prend la main de Courgette dans la sienne,
+    ses yeux brillants d'une joie pure et authentique.]"
+  Phrase8: "Navet: alors, est-ce que \xE7a veut dire que... que nous sommes ensemble
+    ?"
+  Phrase9: 'Courgette: oui, Navet. '
+  Phrase10: "[Un sourire radieux illumine le visage de Navet alors qu'il savoure
+    ce moment magique, sachant que cette d\xE9claration marque le d\xE9but d'une
+    nouvelle et belle \xE9tape dans leur relation.]"
+  Phrase11: "Fin : Navet, apr\xE8s avoir exprim\xE9 ses sentiments \xE0 Courgette,
+    d\xE9couvre avec joie que ces sentiments sont partag\xE9s. Ensemble, ils commencent
+    un nouveau chapitre de leur histoire, emplis d'amour et de promesses."
+  Phrase12: "Bravo, c'est gagn\xE9. Si tu veux rejouer, appuie sur espace"
+  Phrase13: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 8
+  m_EditorClassIdentifier: 
+  Phrase1: "[Navet s'arr\xEAte net en voyant Courgette sous le cerisier.] "
+  Phrase2: "Navet: peut-\xEAtre que... Peut-\xEAtre que je devrais juste faire demi-tour.
+    C'est trop tard, maintenant, de toute fa\xE7on. Elle doit d\xE9j\xE0 se demander
+    o\xF9 je suis. \xC7a va juste \xEAtre g\xEAnant si j'arrive maintenant. "
+  Phrase3: "Navet: je ne peux pas le faire. Je... Je vais partir. Peut-\xEAtre que
+    je lui enverrai un message plus tard pour m'excuser. Ou peut-\xEAtre... Peut-\xEAtre
+    que je trouverai un moyen de rattraper \xE7a une autre fois. "
+  Phrase4: "[Il se d\xE9tourne, laissant derri\xE8re lui une occasion manqu\xE9e
+    et une montagne de questions sans r\xE9ponse.] "
+  Phrase5: "Fin : Navet, pris de panique en voyant Courgette sous le cerisier, d\xE9cide
+    finalement de ne pas s'approcher, laissant une occasion pr\xE9cieuse filer entre
+    ses doigts. Le regret le ronge alors qu'il s'\xE9loigne. Game over. Appuyer sur
+    espace pour recommencer."
+  Phrase6: 
+  Phrase7: 
+  Phrase8: 
+  Phrase9: 
+  Phrase10: 
+  Phrase11: 

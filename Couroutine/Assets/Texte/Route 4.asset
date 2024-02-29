@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 4
+  m_EditorClassIdentifier: 
+  Phrase1: 'Navet: bon, c''est maintenant ou jamais. Je ne peux pas rester dans ma
+    bulle pour toujours. Allez, Navet, tu peux le faire. Il est temps de prendre
+    ce risque, peu importe ce qui pourrait arriver. '
+  Phrase2: 'Navet: Hey... Euh, salut Courgette. '
+  Phrase3: "Courgette: oh, salut Navet. \xC7a fait plaisir de te voir. Comment \xE7a
+    va ? "
+  Phrase4: "Navet: euh, \xE7a va... Enfin, \xE7a va maintenant. J'avais juste envie
+    de... De venir te parler."
+  Phrase5: "Courgette: vraiment ? C'est super ! Tu sais, \xE7a fait un moment qu'on
+    est dans la m\xEAme classe et on n'a jamais vraiment eu l'occasion de discuter. "
+  Phrase6: "Navet: ouais, c'est vrai. J'ai toujours eu un peu de mal \xE0 sortir
+    de ma coquille, mais je me suis dit que ce serait dommage de passer \xE0 c\xF4t\xE9
+    d'une opportunit\xE9 de te conna\xEEtre un peu mieux. "
+  Phrase7: "Courgette: je suis contente que tu sois venu. Tu sais, j'ai toujours
+    pens\xE9 que tu avais l'air sympa, mais tu semblais tellement r\xE9serv\xE9. "
+  Phrase8: "Navet: ouais, je suppose que je peux \xEAtre un peu timide parfois. Mais
+    bon, je me dis que c'est peut-\xEAtre le moment de changer \xE7a. "
+  Phrase9: '[DRING DRING DRING]'
+  Phrase10: "Navet: oh, euh, la sonnerie... \xC7a passe vite le temps, hein ? "
+  Phrase11: "Courgette: oui, en effet. Bon, je suppose qu'on se reverra en cours.
+    O\xF9 peut-\xEAtre... "

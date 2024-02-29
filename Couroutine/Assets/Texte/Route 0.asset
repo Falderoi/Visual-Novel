@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 0
+  m_EditorClassIdentifier: 
+  Phrase1: "Navet : \"La rentr\xE9e... La voil\xE0 qui pointe le bout de son nez.
+    Encore une ann\xE9e qui d\xE9bute, de nouvelles personnes \xE0 rencontrer, de
+    nouveaux d\xE9fis \xE0 relever... Et moi, toujours ce m\xEAme vieux Navet, comme
+    un \xE9tranger parmi les autres."
+  Phrase2: "Peut-\xEAtre le suis-je vraiment. Apr\xE8s tout, je me sens tellement
+    plus \xE0 l'aise en compagnie de mes livres et de mes crayons qu'avec les gens.
+    Les interactions sociales me paraissent souvent si... d\xE9concertantes. "
+  Phrase3: "Navet: [soupire profond\xE9ment.] Encore une fois, je me retrouve confront\xE9
+    \xE0 ce dilemme... Dois-je affronter cette ann\xE9e scolaire ou non ? "
+  Phrase4: "Navet: tout le monde semble si s\xFBr de lui, si confiant dans ses choix.
+    Mais moi... Je me sens toujours comme pris au pi\xE8ge entre deux mondes, deux
+    d\xE9cisions. "
+  Phrase5: "Navet: d'un c\xF4t\xE9, il y a cette obligation. Aller en cours, suivre
+    le rythme, ne pas se laisser distancer. Mais d'un autre c\xF4t\xE9... Il y a
+    cette anxi\xE9t\xE9 qui me ronge, ce besoin de recul, de solitude. Est-ce vraiment
+    la peine de me forcer quand je me sens aussi \xE9puis\xE9 ? "
+  Phrase6: "Navet: peut-\xEAtre que je devrais simplement rester ici, \xE0 l'abri,
+    loin des regards des autres. Mais alors, est-ce que je ne regretterai pas de
+    manquer cette ann\xE9e ? Est-ce que je ne me sentirai pas encore plus isol\xE9
+    ? "
+  Phrase7: 
+  Phrase8: 
+  Phrase9: 
+  Phrase10: 
+  Phrase11: 

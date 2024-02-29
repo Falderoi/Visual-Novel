@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 12
+  m_EditorClassIdentifier: 
+  Phrase1: "[une vague de peur s'empare soudainement de lui, faisant na\xEEtre des
+    doutes et des incertitudes.] "
+  Phrase2: "Navet: euh, en fait, il y a quelque chose dont je voulais te parler,
+    mais... euh, oublie \xE7a. Ce n'est pas important."
+  Phrase3: "Courgette: Navet, tu as l'air un peu tendu. Si quelque chose te tracasse,
+    je suis l\xE0 pour toi. Tu peux me dire ce que tu veux."
+  Phrase4: "[Navet d\xE9tourne le regard, luttant contre ses propres \xE9motions
+    contradictoires.] "
+  Phrase5: "Navet: non, non, ce n'est rien. Vraiment. Dis-moi plut\xF4t, qu'as-tu
+    pens\xE9 du dernier cours de math\xE9matiques ?"
+  Phrase6: "[Courgette semble perplexe devant ce changement brusque de sujet, mais
+    d\xE9cide de jouer le jeu.]"
+  Phrase7: "Courgette: euh, d'accord... Mais, Navet, si jamais tu veux parler de
+    ce qui te pr\xE9occupe, je suis l\xE0, d'accord ?"
+  Phrase8: 'Navet: d''accord. Merci, Courgette.'
+  Phrase9: "[Le sujet est d\xE9lib\xE9r\xE9ment \xE9vit\xE9, laissant une tension
+    palpable entre eux alors que Navet s'efforce de dissimuler ses v\xE9ritables
+    sentiments, pr\xE9f\xE9rant se r\xE9fugier dans des conversations superficielles
+    pour \xE9viter d'affronter sa propre peur et son ins\xE9curit\xE9.]"
+  Phrase10: "Fin : Navet, submerg\xE9 par la peur, \xE9vite de d\xE9clarer ses sentiments
+    \xE0 Courgette, laissant une opportunit\xE9 pr\xE9cieuse se perdre dans le silence.
+    Le regret l'envahit alors qu'il se d\xE9tourne de ses \xE9motions, choisissant
+    de fuir plut\xF4t que d'affronter la v\xE9rit\xE9. Game over. Appuyer sur espace
+    pour recommence"
+  Phrase11: 
+  Phrase12: 
+  Phrase13: 

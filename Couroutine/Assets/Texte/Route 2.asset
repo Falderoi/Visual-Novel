@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e03d261226ba24ebfc7f1f105d4ace, type: 3}
+  m_Name: Route 2
+  m_EditorClassIdentifier: 
+  Phrase1: "Navet: non... Je crois que cette fois-ci, je vais suivre mon instinct.
+    Je ne me sens pas pr\xEAt \xE0 affronter le tumulte du lyc\xE9e. Peut-\xEAtre
+    qu'une pause, du recul, me feront du bien. "
+  Phrase2: '2 Jours plus tard : '
+  Phrase3: "Navet: Wow, \xE7a fait bizarre d'\xEAtre de retour si peu de temps. Deux
+    jours seulement, mais c\u2019est pass\xE9 tel un battement d\u2019ailes. Et puis...
+    il y a elle. "
+  Phrase4: "[Il remarque Courgette \xE0 quelques m\xE8tres de lui, occup\xE9e \xE0
+    discuter avec des amis. .] "
+  Phrase5: "Navet: elle est tellement... Impressionnant. Belle, intelligente, et
+    apparemment si \xE0 l'aise avec les autres. Je me demande ce qu'elle pourrait
+    penser de moi si jamais je trouvais le courage de lui parler. "
+  Phrase6: "Navet: mais est-ce que je devrais vraiment ? Apr\xE8s tout, \xE7a fait
+    des ann\xE9es que nous sommes dans la m\xEAme classe et nous n'avons jamais vraiment
+    \xE9chang\xE9 un mot. Peut-\xEAtre qu'elle pr\xE9f\xE8re que je reste \xE0 ma
+    place, invisible comme d'habitude. "
+  Phrase7: "Navet: Mais peut-\xEAtre que... Juste peut-\xEAtre... \xC7a vaut le coup
+    d'essayer. Qui sait ce qui pourrait arriver si je d\xE9passe mes propres limites,
+    pour une fois ? "
+  Phrase8: 
+  Phrase9: 
+  Phrase10: 
